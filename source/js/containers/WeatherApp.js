@@ -28,7 +28,7 @@ export class WeatherApp extends React.Component {
         </div>
         <Routing/>
         <footer>
-          <div className={'navbar navbar-inverse bg-inverse footer-nav'}>©by Zarabon, my<a href={'https://github.com/zarabon'}>Github</a></div>
+          <div className={'navbar navbar-inverse bg-inverse footer-nav'}>©by Zarabon, my<a href={'https://github.com/zarabon/simpleWeatherReactApp'}>Github</a></div>
         </footer>
       </div>
     )

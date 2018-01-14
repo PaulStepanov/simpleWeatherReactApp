@@ -1,5 +1,3 @@
-// Simple API wrapper
-
 import WEATHER_STATE from "../constants/weatherState";
 import Weather from "../entities/Weather";
 import Temperature from "../entities/Temerature";
