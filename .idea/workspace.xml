@@ -2,264 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1228c07-fb61-4735-b560-6706a2b96477" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-alien.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-barometer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-celsius.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloud-down.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloud-refresh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloud-up.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloud.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloudy-gusts.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloudy-windy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-cloudy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-cloudy-gusts.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-cloudy-high.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-cloudy-windy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-cloudy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-fog.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-hail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-haze.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-light-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-lightning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-rain-mix.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-rain-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-rain.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-sleet-storm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-sleet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-snow-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-snow-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-snow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-sprinkle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-storm-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-sunny-overcast.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-sunny.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-day-windy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-degrees.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-down-left.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-down-right.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-down.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-left.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-right.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-up-left.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-up-right.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-direction-up.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-dust.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-earthquake.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-fahrenheit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-fire.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-flood.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-fog.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-gale-warning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-hail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-horizon-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-horizon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-hot.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-humidity.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-hurricane-warning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-hurricane.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-lightning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-lunar-eclipse.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-meteor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-first-quarter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-full.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-new.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-third-quarter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-crescent-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-crescent-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-crescent-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-crescent-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-crescent-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-crescent-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-gibbous-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-gibbous-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-gibbous-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-gibbous-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-gibbous-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waning-gibbous-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-crescent-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-crescent-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-crescent-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-crescent-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-crescent-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-crescent-6 .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-gibbous-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-gibbous-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-gibbous-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-gibbous-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-gibbous-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-alt-waxing-gibbous-6 .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-first-quarter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-full.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-new.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-third-quarter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-crescent-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-crescent-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-crescent-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-crescent-4 .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-crescent-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-crescent-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-gibbous-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-gibbous-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-gibbous-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-gibbous-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-gibbous-5 .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waning-gibbous-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-crescent-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-crescent-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-crescent-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-crescent-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-crescent-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-crescent-6 .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-gibbous-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-gibbous-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-gibbous-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-gibbous-4 .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-gibbous-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moon-waxing-gibbous-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moonrise.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-moonset.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-na.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-cloudy-gusts.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-cloudy-high.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-cloudy-windy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-cloudy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-hail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-lightning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-partly-cloudy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-rain-mix.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-rain-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-rain.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-sleet-storm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-sleet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-snow-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-snow-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-snow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-sprinkle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-storm-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-alt-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-clear.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-cloudy-gusts.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-cloudy-high.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-cloudy-windy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-cloudy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-fog.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-hail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-lightning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-partly-cloudy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-rain-mix.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-rain-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-rain.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-sleet-storm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-sleet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-snow-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-snow-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-snow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-sprinkle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-storm-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-night-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-rain-mix.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-rain-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-rain.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-raindrop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-raindrops.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-refresh-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-refresh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-sandstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-sleet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-small-craft-advisory.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-smog.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-smoke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-snow-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-snow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-snowflake-cold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-solar-eclipse.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-sprinkle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-stars.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-storm-showers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-storm-warning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-strong-wind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-sunrise.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-sunset.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-thermometer-exterior.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-thermometer-internal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-thermometer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-thunderstorm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-10.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-11.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-12.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-time-9.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-tornado.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-train.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-tsunami.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-umbrella.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-volcano.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-10.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-11.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-12.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-beaufort-9.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-wind-deg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/svg/weather/wi-windy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherAPI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherMapConstants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/components/WeatherCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/components/WeatherCardBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/components/WeatherSVGICO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/constants/dateAndTimeFormats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/constants/weatherState.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/containers/WeatherApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/entities/Temerature.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/entities/TemperatureUnit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/entities/Weather.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/routing/Routing.jsx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/img/book1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/img/book2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/img/svgExample.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/img/workco-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/svg/circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/svg/square.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/svg/triangle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/css/base/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/css/base/vars.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/components/global/Menu.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/sagas/people.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/views/Home.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/views/NotFound.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/views/People.jsx" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/components/detailedWeather/DateTimeElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/components/detailedWeather/DetailedWeatherTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/constants/appUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/containers/DetailedWeather.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/containers/WeatherForecastSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/entities/Rain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/entities/Wind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/helperFunctions/formatWind.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/constants/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/views/App.jsx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/base/app.css" afterPath="$PROJECT_DIR$/source/css/base/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/index.css" afterPath="$PROJECT_DIR$/source/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html" afterPath="$PROJECT_DIR$/source/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/constants/routes.js" afterPath="$PROJECT_DIR$/source/js/constants/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/views/App.jsx" afterPath="$PROJECT_DIR$/source/js/views/App.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/config.js" afterPath="$PROJECT_DIR$/webpack/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/client.js" afterPath="$PROJECT_DIR$/source/js/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/components/WeatherSVGICO.js" afterPath="$PROJECT_DIR$/source/js/components/WeatherSVGICO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/containers/WeatherApp.js" afterPath="$PROJECT_DIR$/source/js/containers/WeatherApp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/entities/Weather.js" afterPath="$PROJECT_DIR$/source/js/entities/Weather.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js" afterPath="$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/routing/Routing.jsx" afterPath="$PROJECT_DIR$/source/js/routing/Routing.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/sagas/index.js" afterPath="$PROJECT_DIR$/source/js/sagas/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/js/components/WeatherCard.js" afterPath="$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/js/components/WeatherCardBar.js" afterPath="$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCardBar.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -273,53 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/constants/routes.js">
+      <file leaf-file-name="WeatherForecastSlider.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherForecastSlider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dateAndTimeFormats.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/constants/dateAndTimeFormats.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherSVGICO.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/components/WeatherSVGICO.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-376">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherCard.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/components/WeatherCard.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Routing.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/routing/Routing.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="572">
+              <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -327,52 +50,110 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="openWeatherAPI.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherAPI.js">
+      <file leaf-file-name="WeatherApp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/css/base/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appUrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/constants/appUrl.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="openWeatherMapConstants.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherMapConstants.js">
+      <file leaf-file-name="WeatherCard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/js/api/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2196">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="260">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="WeatherCardBar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/components/WeatherCardBar.js">
+        <entry file="file://$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCardBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
+            <state relative-caret-position="413">
+              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1515916298990" expanded="true" signature="978:1292" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetailedWeather.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/containers/DetailedWeather.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-757">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding>
+                <marker date="1515913953416" expanded="true" signature="1014:1462" ph="..." />
+                <marker date="1515913953416" expanded="true" signature="1029:1449" ph="..." />
+                <marker date="1515913953416" expanded="true" signature="1052:1145" ph="..." />
+                <marker date="1515913953416" expanded="false" signature="1168:1185" ph="..." />
+                <marker date="1515913953416" expanded="true" signature="1185:1279" ph="..." />
+                <marker date="1515913953416" expanded="true" signature="1262:1273" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetailedWeatherTable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/components/detailedWeather/DetailedWeatherTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weatherState.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/constants/weatherState.js">
+      <file leaf-file-name="DateTimeElement.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/components/detailedWeather/DateTimeElement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="338">
+              <caret line="13" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherSVGICO.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/js/components/WeatherSVGICO.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -410,17 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/js/config/store.js" />
-        <option value="$PROJECT_DIR$/source/js/views/todo/TodoForm.js" />
-        <option value="$PROJECT_DIR$/source/js/views/todo/TodoInput.js" />
-        <option value="$PROJECT_DIR$/source/js/views/todo/TodoList.jsx" />
-        <option value="$PROJECT_DIR$/source/js/views/todo/Todo.jsx" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/source/js/components/global/Menu.jsx" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/source/js/constants/routes.js" />
-        <option value="$PROJECT_DIR$/source/js/components/Comments.jsx" />
-        <option value="$PROJECT_DIR$/source/js/components/ProductImage.jsx" />
         <option value="$PROJECT_DIR$/source/js/api/localStorageAPI.js" />
         <option value="$PROJECT_DIR$/source/js/helpers/currency.js" />
         <option value="$PROJECT_DIR$/source/js/helpers/total.js" />
@@ -444,21 +214,34 @@
         <option value="$PROJECT_DIR$/source/js/entities/Temerature.js" />
         <option value="$PROJECT_DIR$/webpack/config.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/source/css/base/app.css" />
         <option value="$PROJECT_DIR$/source/index.html" />
         <option value="$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherAPI.js" />
         <option value="$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherMapConstants.js" />
         <option value="$PROJECT_DIR$/source/js/constants/weatherState.js" />
-        <option value="$PROJECT_DIR$/source/js/components/WeatherSVGICO.js" />
-        <option value="$PROJECT_DIR$/source/js/entities/Weather.js" />
-        <option value="$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js" />
         <option value="$PROJECT_DIR$/source/js/constants/dateFormat.js" />
         <option value="$PROJECT_DIR$/source/js/constants/dateAndTimeFormats.js" />
-        <option value="$PROJECT_DIR$/source/js/views/App.jsx" />
-        <option value="$PROJECT_DIR$/source/js/containers/WeatherApp.js" />
         <option value="$PROJECT_DIR$/source/js/components/WeatherCard.js" />
         <option value="$PROJECT_DIR$/source/js/components/WeatherCardBar.js" />
+        <option value="$PROJECT_DIR$/source/js/sagas/index.js" />
+        <option value="$PROJECT_DIR$/source/js/containers/Main.js" />
         <option value="$PROJECT_DIR$/source/js/routing/Routing.jsx" />
+        <option value="$PROJECT_DIR$/source/js/components/WeatherSVGICO.js" />
+        <option value="$PROJECT_DIR$/source/js/entities/Rain.js" />
+        <option value="$PROJECT_DIR$/source/js/entities/Wind.js" />
+        <option value="$PROJECT_DIR$/source/js/helperFunctions/formatWind.js" />
+        <option value="$PROJECT_DIR$/source/js/entities/Weather.js" />
+        <option value="$PROJECT_DIR$/source/js/views/App.jsx" />
+        <option value="$PROJECT_DIR$/source/js/client.js" />
+        <option value="$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js" />
+        <option value="$PROJECT_DIR$/source/js/components/detailedWeather/DateTimeElement.js" />
+        <option value="$PROJECT_DIR$/source/js/containers/DetailedWeather.js" />
+        <option value="$PROJECT_DIR$/source/js/components/detailedWeather/DetailedWeatherTable.js" />
+        <option value="$PROJECT_DIR$/source/js/constants/appUrl.js" />
+        <option value="$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCardBar.js" />
+        <option value="$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCard.js" />
+        <option value="$PROJECT_DIR$/source/css/base/app.css" />
+        <option value="$PROJECT_DIR$/source/js/containers/WeatherApp.js" />
+        <option value="$PROJECT_DIR$/source/js/containers/WeatherForecastSlider.js" />
       </list>
     </option>
   </component>
@@ -495,7 +278,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -567,6 +349,22 @@
               <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="detailedWeather" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleReactShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="weatherForecastSlider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleReactShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="constants" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -588,6 +386,20 @@
               <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="helperFunctions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleReactShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleReactShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="routing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -600,19 +412,13 @@
             <path>
               <item name="simpleReactShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="simpleReactShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="simpleReactShop" type="462c0819:PsiDirectoryNode" />
               <item name="webpack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -630,13 +436,14 @@
     <property name="node.js.selected.package.standard" value="D:\programing\react\simpleReactShop\node_modules\eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\programing\react\simpleReactShop\source\js\api\openWeatherMap" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\programing\react\simpleReactShop\source\assets\svg\weather" />
       <recent name="D:\programing\react\simpleReactShop\source\assets\img" />
       <recent name="D:\programing\react\simpleReactShop\node_modules\react-loading-animation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programing\react\simpleReactShop\source\js\components\weatherForecastSlider" />
+      <recent name="D:\programing\react\simpleReactShop\source\js\api\openWeatherMap" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -668,33 +475,34 @@
       <workItem from="1515776073841" duration="2965000" />
       <workItem from="1515786160244" duration="1568000" />
       <workItem from="1515830656308" duration="1112000" />
-      <workItem from="1515831857616" duration="24346000" />
+      <workItem from="1515831857616" duration="32284000" />
+      <workItem from="1515872594273" duration="7600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40277000" />
+    <option name="totallyTimeSpent" value="55815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -723,190 +531,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/js/helpers/total.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/helpers/stockTotal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/helpers/currency.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/config/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-loading-animation/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/ProductDetail.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/Menu.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-862">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/Comments.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/CartItem.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/ProductImage.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/Products.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/Stocks.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/containers/Cart.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/mockData/cart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/mockData/products.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="1352" column="0" lean-forward="false" selection-start-line="1352" selection-start-column="0" selection-end-line="1352" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/containers/Main.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/containers/ProductList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/api/localstorage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherApp.js">
+    <entry file="file://$PROJECT_DIR$/source/js/containers/Main.jsx" />
+    <entry file="file://$PROJECT_DIR$/source/js/containers/ProductList.jsx" />
+    <entry file="file://$PROJECT_DIR$/source/js/api/localstorage.js" />
+    <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherForecastSlider.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/WeatherApp.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/components/WeatherApp.jsx" />
     <entry file="file://$PROJECT_DIR$/.eslint">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/views/NotFound.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/views/NotFound.jsx" />
     <entry file="file://$PROJECT_DIR$/webpack/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3796">
@@ -931,19 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/css/base/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,75 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="166" column="10" lean-forward="false" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/views/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/entities/Weather.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/entities/TemperatureUnit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/entities/Temerature.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/constants/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,59 +631,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/WeatherCard.js">
+    <entry file="file://$PROJECT_DIR$/source/js/sagas/people.js" />
+    <entry file="file://$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherMapConstants.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="390">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/WeatherCardBar.js">
+    <entry file="file://$PROJECT_DIR$/source/js/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-1728">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/components/WeatherSVGICO.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/constants/weatherState.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/routing/Routing.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/sagas/people.js">
+    <entry file="file://$PROJECT_DIR$/source/js/reducers/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/reducers/people.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/entities/TemperatureUnit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/entities/Temerature.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/containers/Main.js" />
+    <entry file="file://$PROJECT_DIR$/source/js/constants/routes.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router/es/Route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="116" column="2" lean-forward="false" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -1119,23 +707,201 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/constants/weatherState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/api/openWeatherMap/openWeatherMapConstants.js">
+    <entry file="file://$PROJECT_DIR$/source/js/sagas/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/api/index.js">
+    <entry file="file://$PROJECT_DIR$/source/js/entities/Rain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2196">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="338">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/entities/Weather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/helperFunctions/formatWind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/entities/Wind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#310#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/views/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/routing/Routing.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/entities/WeatherCardEntity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/components/WeatherSVGICO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/components/detailedWeather/DateTimeElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-bootstrap/es/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="274" column="15" lean-forward="false" selection-start-line="274" selection-start-column="15" selection-end-line="274" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/constants/appUrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/containers/DetailedWeather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-757">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <marker date="1515913953416" expanded="true" signature="1014:1462" ph="..." />
+            <marker date="1515913953416" expanded="true" signature="1029:1449" ph="..." />
+            <marker date="1515913953416" expanded="true" signature="1052:1145" ph="..." />
+            <marker date="1515913953416" expanded="false" signature="1168:1185" ph="..." />
+            <marker date="1515913953416" expanded="true" signature="1185:1279" ph="..." />
+            <marker date="1515913953416" expanded="true" signature="1262:1273" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/components/detailedWeather/DetailedWeatherTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCardBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1515916298990" expanded="true" signature="978:1292" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/base/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/components/weatherForecastSlider/WeatherCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/containers/WeatherForecastSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

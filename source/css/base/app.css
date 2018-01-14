@@ -1,4 +1,48 @@
-.WeatherCard1 {
-  border: 1px solid rgba(0,0,0,.125);
-  border-radius: .25rem;
+/*Header*/
+.header-text {
+  color: azure;
+  font-size: 1.7em;
+}
+
+.header-text:link {
+  text-decoration: none;
+}
+
+.header-text:hover {
+  color: orange;
+}
+
+/*WeatherCard*/
+.WeatherCard-wrapper {
+  color: black;
+}
+
+.WeatherCard-wrapper:link {
+  text-decoration: none;
+}
+
+.WeatherCard-wrapper:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.WeatherCard:hover {
+  color:grey;
+  border: 1px transparent;
+  box-shadow: 5px 10px black;
+}
+
+/*footer*/
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: flex-end;
+  text-align: center;
+  color: azure;
 }

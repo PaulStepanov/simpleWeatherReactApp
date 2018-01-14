@@ -1,20 +1,30 @@
 export default class WeatherCardEntity {
   /**
    *
-   * @param day - momentjs object
-   * @param weather - Weather entity
+   * @param dayOfWeekStr :string - dayOfWeek(Sat, Sun, Mon)
+   * @param weather: Weather
+   * @param dayIndex:number - index of day to form link to details of day
    */
-  constructor(day, weather){
-    this._day = day;
+  constructor(dayOfWeekStr, weather, dayIndex){
+    this._day = dayOfWeekStr;
     this._weather = weather;
+    this._dayIndex = dayIndex;
   }
 
 
-  get day() {
+  get dayIndex() {
+    return this._dayIndex;
+  }
+
+  set dayIndex(value) {
+    this._dayIndex = value;
+  }
+
+  get dayOfWeekStr() {
     return this._day;
   }
 
-  set day(value) {
+  set dayOfWeekStr(value) {
     this._day = value;
   }
 

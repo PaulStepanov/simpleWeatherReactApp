@@ -8,10 +8,10 @@ import { AppContainer } from 'react-hot-loader';
 import { Provider } from 'react-redux';
 
 import configureStore from 'config/store';
-import App from 'views/App';
 
 // Load CSS
 import 'index.css';
+import {WeatherApp} from "./containers/WeatherApp";
 
 const store = configureStore().store;
 
@@ -22,7 +22,7 @@ renderMethod(
   <AppContainer>
     <Provider store={ store }>
       <BrowserRouter>
-        <App />
+        <WeatherApp/>
       </BrowserRouter>
     </Provider>
   </AppContainer>,

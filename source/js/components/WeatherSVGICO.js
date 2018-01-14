@@ -38,7 +38,7 @@ class WeatherSVGICO extends React.Component {
 
       return (
         <div>
-          <SvgElement style={{height:'50%', width:'50%',display:'block', marginLeft:'auto', marginRight:'auto'}}/>
+          <SvgElement/>
         </div>
       )
     }
