@@ -15,7 +15,6 @@ class DateTimeElement extends React.Component {
       return null
     }
   }
-
 }
 
 DateTimeElement.propTypes = {

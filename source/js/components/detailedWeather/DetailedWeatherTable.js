@@ -11,27 +11,27 @@ class DetailedWeatherTable extends React.Component {
         <tbody>
         <tr>
           <td>Wind</td>
-          <td>{formatWind(weather.wind)}</td>
+          <td>{formatWind(weather._wind)}</td>
         </tr>
         <tr>
           <td>Pressure</td>
-          <td>{weather.pressure} hpa</td>
+          <td>{weather._pressure} hpa</td>
         </tr>
         <tr>
           <td>Humidity</td>
-          <td>{weather.humidity} %</td>
+          <td>{weather._humidity} %</td>
         </tr>
         <tr>
           <td>Rain</td>
-          <td>{weather.rain.volume}</td>
+          <td>{weather._rain._volume}</td>
         </tr>
         <tr>
           <td>Sea level</td>
-          <td>{weather.seaLevel} hPa</td>
+          <td>{weather._seaLevel} hPa</td>
         </tr>
         <tr>
           <td>Ground level</td>
-          <td>{weather.groundLevel} hPa</td>
+          <td>{weather._groundLevel} hPa</td>
         </tr>
         </tbody>
       </Table>

@@ -4,7 +4,7 @@ export default class Rain {
    * @param previousDuration :number; for what duration rain was
    * @param volume:number
    */
-  constructor(previousDuration, volume){
+  constructor(previousDuration, volume) {
     this._previousDuration = previousDuration;
     this._volume = volume;
   }

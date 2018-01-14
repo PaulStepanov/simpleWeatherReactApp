@@ -23,25 +23,25 @@ const weatherToSvgIcon = {
 
 
 class WeatherSVGICO extends React.Component {
-    render() {
-      //Default timeOfDay prop is day
-      const timeOfDay = this.props.timeOfDay ? this.props.timeOfDay : "day"
+  render() {
+    //Default timeOfDay prop is day
+    const timeOfDay = this.props.timeOfDay ? this.props.timeOfDay : "day"
 
-      let SvgElement ;
+    let SvgElement;
 
-      if (timeOfDay) {
-        SvgElement = weatherToSvgIcon[this.props.weather].day;
-      }
-      if (timeOfDay) {
-        SvgElement = weatherToSvgIcon[this.props.weather].night;
-      }
-
-      return (
-        <div>
-          <SvgElement/>
-        </div>
-      )
+    if (timeOfDay) {
+      SvgElement = weatherToSvgIcon[this.props.weather].day;
     }
+    if (timeOfDay) {
+      SvgElement = weatherToSvgIcon[this.props.weather].night;
+    }
+
+    return (
+      <div>
+        <SvgElement/>
+      </div>
+    )
+  }
 
 
 }

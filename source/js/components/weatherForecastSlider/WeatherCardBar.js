@@ -22,6 +22,9 @@ class WeatherCardBar extends React.Component {
   }
 
   render() {
+    if (!this.props.weatherCardEntityArr) {
+      return null
+    }
     return (
       <div>
         <Grid>
@@ -31,9 +34,9 @@ class WeatherCardBar extends React.Component {
                 <Col md={this.calculateRowSize()}>
                   <Link className={'WeatherCard-wrapper'} to={`${appURL}detailed/${weatherCardEntity.dayIndex}`}>
                     <WeatherCard day={weatherCardEntity.dayOfWeekStr}
-                                 temperatureMin={weatherCardEntity.weather.minTemp}
-                                 temperatureMax={weatherCardEntity.weather.maxTemp}
-                                 weather={weatherCardEntity.weather.weatherType}/>
+                                 temperatureMin={weatherCardEntity.weather._minTemp}
+                                 temperatureMax={weatherCardEntity.weather._maxTemp}
+                                 weather={weatherCardEntity.weather._weatherType}/>
                   </Link>
                 </Col>
             )}

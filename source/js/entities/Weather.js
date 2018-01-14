@@ -27,7 +27,6 @@ export default class Weather {
     this._clouds = clouds;
   }
 
-
   get wind() {
     return this._wind;
   }

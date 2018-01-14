@@ -3,11 +3,11 @@ import wind from "../entities/Wind";
 
 export function formatWind(wind) {
   const beaufortOptions = {unit: 'mps', getName: true};
-  const windSpeedStr = beaufort(wind.speed, beaufortOptions);
+  const windSpeedStr = beaufort(wind._speed, beaufortOptions);
 
   let directionStr
 
-  switch (wind.direction) {
+  switch (wind._direction) {
     case 0 :
       directionStr = 'North';
       break;
@@ -25,19 +25,19 @@ export function formatWind(wind) {
       break;
   }
 
-  if (wind.direction > 0 && wind.direction < 90) {
+  if (wind._direction > 0 && wind._direction < 90) {
     directionStr = 'North-East'
   }
-  if (wind.direction > 90 && wind.direction < 180) {
+  if (wind._direction > 90 && wind._direction < 180) {
     directionStr = 'South-East'
   }
-  if (wind.direction > 180 && wind.direction < 270) {
+  if (wind._direction > 180 && wind._direction < 270) {
     directionStr = 'South-West'
   }
 
-  if (wind.direction > 270 && wind.direction < 360) {
+  if (wind._direction > 270 && wind._direction < 360) {
     directionStr = 'North-West'
   }
 
-  return `${windSpeedStr}, ${wind.speed}m/s, ${directionStr}(${wind.direction})`
+  return `${windSpeedStr}, ${wind._speed}m/s, ${directionStr}(${wind._direction})`
 }

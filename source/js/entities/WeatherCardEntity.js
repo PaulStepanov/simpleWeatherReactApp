@@ -5,7 +5,7 @@ export default class WeatherCardEntity {
    * @param weather: Weather
    * @param dayIndex:number - index of day to form link to details of day
    */
-  constructor(dayOfWeekStr, weather, dayIndex){
+  constructor(dayOfWeekStr, weather, dayIndex) {
     this._day = dayOfWeekStr;
     this._weather = weather;
     this._dayIndex = dayIndex;

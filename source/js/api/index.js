@@ -1,114 +1,61 @@
 // Simple API wrapper
 
-const API_URL = 'https://swapi.co/api';
+import WEATHER_STATE from "../constants/weatherState";
+import Weather from "../entities/Weather";
+import Temperature from "../entities/Temerature";
+import Rain from "../entities/Rain";
+import Wind from "../entities/Wind";
+import moment from "moment";
 
-// Custom API error to throw
-function ApiError(message, data, status) {
-  let response = null;
-  let isObject = false;
-
-  // We are trying to parse response
-  try {
-    response = JSON.parse(data);
-    isObject = true;
-  } catch (e) {
-    response = data;
-  }
-
-  return {
-    response,
-    message,
-    status,
-    toString: () => {
-      return `${ this.message }\nResponse:\n${ isObject ? JSON.stringify(this.response, null, 2) : this.response }`;
-    },
-  };
-}
-
-// API wrapper function
-const fetchResource = (path, userOptions = {}) => {
-  // Define default options
-  const defaultOptions = {};
-
-  // Define default headers
-  const defaultHeaders = {
-    'Content-Type': 'application/json',
-    Accept: 'application/json',
-  };
-
-  const options = {
-    // Merge options
-    ...defaultOptions,
-    ...userOptions,
-    // Merge headers
-    headers: {
-      ...defaultHeaders,
-      ...userOptions.headers,
-    },
-  };
-
-  // Build Url
-  const url = `${ API_URL }/${ path }`;
-
-  // Detect is we are uploading a file
-  const isFile = typeof window !== 'undefined' && options.body instanceof File;
-
-  // Stringify JSON data
-  // If body is not a file
-  if (options.body && typeof options.body === 'object' && !isFile) {
-    options.body = JSON.stringify(options.body);
-  }
-
-  // Variable which will be used for storing response
-  let response = null;
-
-  return fetch(url, options)
-    .then(responseObject => {
-      // Saving response for later use in lower scopes
-      response = responseObject;
-
-      // HTTP unauthorized
-      if (response.status === 401) {
-        // Handle unauthorized requests
-        // Maybe redirect to login page?
+/**
+ * @desc simulating working with api
+ * @return {Promise}
+ */
+function getMockWeatherForecast() {
+  return new Promise((resolve, reject) => {
+    let retAarr = []
+    retAarr.push(
+      {
+        day: moment(),
+        dayIndex: 1,
+        weather: new Weather(WEATHER_STATE.thunderstorm, new Temperature(-5), new Temperature(0), new Temperature(3), 50, 1000, 970, 900, new Wind(3.61, 165.001), new Rain(12, 0.185), 80)
       }
-
-      // Check for error HTTP error codes
-      if (response.status < 200 || response.status >= 300) {
-        // Get response as text
-        return response.text();
+    )
+    retAarr.push(
+      {
+        day: moment().add(1, 'day'),
+        dayIndex: 2,
+        weather: new Weather(WEATHER_STATE.scatteredClouds, new Temperature(-10), new Temperature(-5), new Temperature(-7), 50, 1000, 970, 900, new Wind(3.61, 165.001), new Rain(12, 0.185), 80)
       }
-
-      // Get response as json
-      return response.json();
-    })
-    // "parsedResponse" will be either text or javascript object depending if
-    // "response.text()" or "response.json()" got called in the upper scope
-    .then(parsedResponse => {
-      // Check for HTTP error codes
-      if (response.status < 200 || response.status >= 300) {
-        // Throw error
-        throw parsedResponse;
+    )
+    retAarr.push(
+      {
+        day: moment().add(2, 'day'),
+        dayIndex: 3,
+        weather: new Weather(WEATHER_STATE.snow, new Temperature(-15), new Temperature(-13), new Temperature(-14), 50, 1000, 970, 900, new Wind(3.61, 165.001), new Rain(12, 0.185), 80)
       }
-
-      // Request succeeded
-      return parsedResponse;
-    })
-    .catch(error => {
-      // Throw custom API error
-      // If response exists it means HTTP error occured
-      if (response) {
-        throw ApiError(`Request failed with status ${ response.status }.`, error, response.status);
-      } else {
-        throw ApiError(error.toString(), null, 'REQUEST_FAILED');
+    )
+    retAarr.push(
+      {
+        day: moment().add(3, 'day'),
+        dayIndex: 4,
+        weather: new Weather(WEATHER_STATE.fewClouds, new Temperature(-6), new Temperature(3), new Temperature(0), 50, 1000, 970, 900, new Wind(3.61, 165.001), new Rain(12, 0.185), 80)
       }
-    });
-};
+    )
+    retAarr.push(
+      {
+        day: moment().add(4, 'day'),
+        dayIndex: 5,
+        weather: new Weather(WEATHER_STATE.mist, new Temperature(0), new Temperature(3), new Temperature(1), 50, 1000, 970, 900, new Wind(3.61, 165.001), new Rain(12, 0.185), 80)
+      }
+    )
 
-function getPeople() {
-  return fetchResource('people/');
+    setTimeout(() => {
+      resolve(retAarr)
+    }, 700)
+  })
 }
 
 export default {
-  getPeople,
+  getMockWeatherForecast,
 };

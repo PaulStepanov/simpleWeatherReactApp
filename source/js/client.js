@@ -3,15 +3,15 @@ import 'isomorphic-fetch';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
-import { AppContainer } from 'react-hot-loader';
-import { Provider } from 'react-redux';
+import {AppContainer} from 'react-hot-loader';
+import {Provider} from 'react-redux';
 
 import configureStore from 'config/store';
 
 // Load CSS
 import 'index.css';
 import {WeatherApp} from "./containers/WeatherApp";
+import {BrowserRouter} from "react-router-dom";
 
 const store = configureStore().store;
 
@@ -20,7 +20,7 @@ const renderMethod = process.env.HYDRATE ? ReactDOM.hydrate : ReactDOM.render;
 
 renderMethod(
   <AppContainer>
-    <Provider store={ store }>
+    <Provider store={store}>
       <BrowserRouter>
         <WeatherApp/>
       </BrowserRouter>
